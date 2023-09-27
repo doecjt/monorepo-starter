@@ -1,19 +1,12 @@
 {
-  "name": "vue",
+  "name": "monorepo-project",
   "type": "module",
   "version": "0.0.0",
+  "private": true,
   "packageManager": "pnpm@8.7.6",
-  "description": "monorepo for vue",
+  "description": "a monorepo project",
   "author": "doecjt",
   "license": "MIT",
-  "homepage": "",
-  "repository": {
-    "type": "",
-    "url": ""
-  },
-  "bugs": "",
-  "keywords": [],
-  "exports": {},
   "main": "",
   "module": "",
   "types": "",
