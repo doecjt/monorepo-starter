@@ -16,7 +16,7 @@
     "node": ">=16.14.0"
   },
   "scripts": {
-    "build": "pnpm --filter=\"./packages/*\" build",
+    "build": "pnpm --filter ./packages/* build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "postinstall": "simple-git-hooks"
